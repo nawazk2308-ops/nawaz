@@ -1,0 +1,24 @@
+*{
+background-color: brown;
+box-sizing: border-box;
+
+}
+.container{
+  height: 500px;
+  width: 500px;
+  background-color: rgb(136, 183, 169);
+  margin: 100px;
+  border: 2px solid black;
+  border-style: dashed;
+  padding: 100px;
+   
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(83, 217, 219);
+  border: 2px dotted gray;
+  padding: 20px;
+  margin: 50px;
+}
