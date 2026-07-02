@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 600px;
+  border: 2px solid black;
+  text-align: center;
+}
+
+.background {
+    background-size:cover;
+    background-repeat: no-repeat;
+  height: 800px;
+  
+  background-image: url("https://images.pexels.com/photos/28557618/pexels-photo-28557618.jpeg");
+  background-attachment: fixed;
+  height: 800px;
+}
+.background1 {
+    background-size:cover;
+    background-repeat: no-repeat;
+  height: 1000px;
+  
+  background-image: url("https://images.pexels.com/photos/35361451/pexels-photo-35361451.jpeg");
+  background-attachment:fixed;
+  height: 800px;
+}
