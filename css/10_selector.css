@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.class {
+  color: yellowgreen;
+  font-size: 50px;
+}
+
+#id {
+  color: steelblue;
+  font-size: 50px;
+}
+
+.container {
+  height: 300px;
+  width: 300px;
+  background-color: slateblue;
+}
+
+.box {
+  border: 2px solid black;
+}
+
+.para p {
+  font-size: 30px;
+}
+
+.heading{
+    font-size: 60px;
+}
+
+.heading p::first-letter {
+  color: red;
+  
+}
